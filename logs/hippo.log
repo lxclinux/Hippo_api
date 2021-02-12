@@ -1,0 +1,179 @@
+INFO 2021-02-11 06:48:16,348 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-11 06:49:47,493 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-11 06:49:52,177 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2021-02-11 06:49:52,291 basehttp 157 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2021-02-11 06:49:52,339 basehttp 157 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2021-02-11 06:49:52,375 basehttp 157 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2021-02-11 06:49:52,376 basehttp 157 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+INFO 2021-02-11 06:50:14,919 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-11 06:50:24,647 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-11 06:50:40,368 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-11 06:51:09,711 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-11 06:53:27,152 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-11 06:54:04,104 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-11 06:58:35,873 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-11 07:00:35,321 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-11 07:00:54,883 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-11 07:01:00,660 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2021-02-11 15:46:02,679 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/settings/dev.py changed, reloading.
+INFO 2021-02-11 15:46:03,184 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-11 15:46:56,793 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/settings/dev.py changed, reloading.
+INFO 2021-02-11 15:46:57,323 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-11 15:47:47,027 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/settings/dev.py changed, reloading.
+INFO 2021-02-11 15:47:47,382 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-11 15:50:55,415 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/apps/user/models.py changed, reloading.
+INFO 2021-02-11 15:50:55,787 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-11 15:51:46,464 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/apps/user/models.py changed, reloading.
+INFO 2021-02-11 15:51:46,801 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-11 15:52:13,235 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/apps/user/models.py changed, reloading.
+INFO 2021-02-11 15:52:13,557 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-11 15:52:26,859 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/settings/dev.py changed, reloading.
+INFO 2021-02-11 15:52:27,156 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-11 15:53:06,746 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/settings/dev.py changed, reloading.
+INFO 2021-02-11 15:53:07,058 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 00:03:22,037 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 00:05:43,426 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/settings/dev.py changed, reloading.
+INFO 2021-02-12 00:05:44,024 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 00:06:58,506 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 00:07:44,800 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 00:08:27,574 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 00:10:07,167 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/urls.py changed, reloading.
+INFO 2021-02-12 00:10:07,898 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 00:10:18,936 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/urls.py changed, reloading.
+INFO 2021-02-12 00:10:19,547 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 00:10:42,250 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-02-12 00:10:43,596 log 228 Not Found: /
+WARNING 2021-02-12 00:10:43,597 basehttp 154 "GET / HTTP/1.1" 404 1925
+WARNING 2021-02-12 00:10:50,244 log 228 Not Found: /
+WARNING 2021-02-12 00:10:50,244 basehttp 154 "GET / HTTP/1.1" 404 1925
+INFO 2021-02-12 00:10:58,391 basehttp 154 "GET /xadmin HTTP/1.1" 301 0
+INFO 2021-02-12 00:10:58,454 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 4151
+INFO 2021-02-12 00:10:58,482 basehttp 154 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+INFO 2021-02-12 00:10:58,482 basehttp 154 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+INFO 2021-02-12 00:10:58,483 basehttp 154 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8376
+INFO 2021-02-12 00:10:58,483 basehttp 154 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+INFO 2021-02-12 00:10:58,483 basehttp 154 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+INFO 2021-02-12 00:10:58,486 basehttp 154 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+INFO 2021-02-12 00:10:58,491 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+INFO 2021-02-12 00:10:58,491 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+INFO 2021-02-12 00:10:58,496 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+INFO 2021-02-12 00:10:58,497 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+INFO 2021-02-12 00:10:58,499 basehttp 154 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+INFO 2021-02-12 00:10:58,499 basehttp 154 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4165
+INFO 2021-02-12 00:10:58,500 basehttp 154 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+INFO 2021-02-12 00:10:58,500 basehttp 154 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+INFO 2021-02-12 00:10:58,502 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4158
+INFO 2021-02-12 00:10:58,569 basehttp 154 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+INFO 2021-02-12 00:11:04,406 basehttp 154 "POST /xadmin/ HTTP/1.1" 302 0
+INFO 2021-02-12 00:11:04,428 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 10177
+INFO 2021-02-12 00:11:04,454 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+INFO 2021-02-12 00:11:04,454 basehttp 154 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+INFO 2021-02-12 00:11:04,454 basehttp 154 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+INFO 2021-02-12 00:11:04,458 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 00:11:09,355 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 10177
+INFO 2021-02-12 00:11:09,378 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 00:11:10,438 basehttp 154 "GET /xadmin/reversion/revision/ HTTP/1.1" 200 24833
+INFO 2021-02-12 00:11:10,459 basehttp 154 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 200 3763
+INFO 2021-02-12 00:11:10,459 basehttp 154 "GET /static/xadmin/vendor/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 10225
+INFO 2021-02-12 00:11:10,463 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 200 10602
+INFO 2021-02-12 00:11:10,465 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 200 8425
+INFO 2021-02-12 00:11:10,465 basehttp 154 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 200 19226
+INFO 2021-02-12 00:11:10,466 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 00:11:10,469 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 200 529
+INFO 2021-02-12 00:11:10,469 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 200 2319
+INFO 2021-02-12 00:11:10,470 basehttp 154 "GET /static/xadmin/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 32656
+INFO 2021-02-12 00:11:10,472 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 200 1990
+INFO 2021-02-12 00:11:10,472 basehttp 154 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 200 1105
+INFO 2021-02-12 00:11:10,475 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 200 98602
+INFO 2021-02-12 00:11:10,475 basehttp 154 "GET /static/xadmin/js/xadmin.widget.datetime.js HTTP/1.1" 200 2979
+INFO 2021-02-12 00:11:10,476 basehttp 154 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 200 1948
+INFO 2021-02-12 00:11:10,476 basehttp 154 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+INFO 2021-02-12 00:11:10,477 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 200 694
+INFO 2021-02-12 00:11:10,477 basehttp 154 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 200 104906
+INFO 2021-02-12 00:11:11,994 basehttp 154 "GET /xadmin/user/users/ HTTP/1.1" 200 29943
+INFO 2021-02-12 00:11:12,013 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+INFO 2021-02-12 00:11:12,016 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 00:11:17,453 basehttp 154 "GET /xadmin/xadmin/log/ HTTP/1.1" 200 25995
+INFO 2021-02-12 00:11:17,476 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 00:11:18,736 basehttp 154 "GET /xadmin/auth/group/ HTTP/1.1" 200 19398
+INFO 2021-02-12 00:11:18,756 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 00:11:19,564 basehttp 154 "GET /xadmin/auth/permission/ HTTP/1.1" 200 82506
+INFO 2021-02-12 00:11:19,588 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 09:41:35,748 basehttp 154 "GET /xadmin/auth/permission/ HTTP/1.1" 200 82506
+INFO 2021-02-12 09:41:35,771 basehttp 154 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,773 basehttp 154 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,774 basehttp 154 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,775 basehttp 154 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,775 basehttp 154 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,778 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 09:41:35,779 basehttp 154 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,781 basehttp 154 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,781 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,782 basehttp 154 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,783 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,785 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,786 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,787 basehttp 154 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,788 basehttp 154 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,788 basehttp 154 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,789 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,790 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,790 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,791 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,791 basehttp 154 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,791 basehttp 154 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:35,804 basehttp 154 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:38,647 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 10177
+INFO 2021-02-12 09:41:38,667 basehttp 154 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:38,674 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 09:41:38,675 basehttp 154 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:41:38,675 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2021-02-12 09:44:39,247 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 09:44:43,485 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 13980
+INFO 2021-02-12 09:44:43,513 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 09:44:43,514 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+INFO 2021-02-12 09:44:43,514 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+INFO 2021-02-12 10:11:54,289 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 13980
+INFO 2021-02-12 10:11:54,309 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 10:16:37,233 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 10:17:08,572 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 10:18:53,581 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 10:19:18,844 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 10:19:23,179 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 13980
+INFO 2021-02-12 10:19:23,220 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 10:19:49,514 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 13980
+INFO 2021-02-12 10:19:49,535 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 10:19:53,517 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 13980
+INFO 2021-02-12 10:19:53,534 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 10:20:54,845 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 10:20:58,596 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 15096
+INFO 2021-02-12 10:20:58,617 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 10:21:01,248 basehttp 154 "GET /xadmin/host/hosts/ HTTP/1.1" 200 24055
+INFO 2021-02-12 10:21:01,270 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 10:22:11,885 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/apps/host/models.py changed, reloading.
+INFO 2021-02-12 10:22:12,568 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 10:22:29,775 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 10:22:33,951 basehttp 154 "GET /xadmin/host/hosts/ HTTP/1.1" 200 24112
+INFO 2021-02-12 10:22:33,979 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 10:24:51,105 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/apps/host/__init__.py changed, reloading.
+INFO 2021-02-12 10:24:51,887 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 10:25:19,151 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/apps/host/__init__.py changed, reloading.
+INFO 2021-02-12 10:25:19,868 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 10:25:27,658 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-02-12 10:25:32,864 basehttp 154 "GET /xadmin/host/hosts/ HTTP/1.1" 200 24120
+INFO 2021-02-12 10:25:32,888 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-02-12 10:52:27,086 autoreload 203 /Users/liuxingchen/virtualenvs/hippo_api/hippo_api/hippo_api/settings/dev.py changed, reloading.
+INFO 2021-02-12 11:02:17,062 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-02-12 11:03:50,090 log 228 Internal Server Error: /user/login
+Traceback (most recent call last):
+  File "/Users/liuxingchen/virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/liuxingchen/virtualenvs/hippo_api/lib/python3.6/site-packages/django/utils/deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "/Users/liuxingchen/virtualenvs/hippo_api/lib/python3.6/site-packages/django/middleware/common.py", line 53, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/Users/liuxingchen/virtualenvs/hippo_api/lib/python3.6/site-packages/django/middleware/common.py", line 93, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/user/login/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2021-02-12 11:03:50,091 basehttp 154 "POST /user/login HTTP/1.1" 500 64071
+INFO 2021-02-12 11:04:23,224 basehttp 154 "POST /user/login/ HTTP/1.1" 200 181
